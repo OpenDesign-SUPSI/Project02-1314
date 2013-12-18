@@ -1,0 +1,22 @@
+Name of the Activity
+[01]Subject: 
+       Andy Agerjoose
+
+[02]Object:
+       Daily grind 
+
+[03]Outcome:
+        Improvement in quality of life
+
+[04]Mediating Artifacts:
+       His hobbies and relevant objects
+
+[05]Rules:
+       His  age, experience and wisdom means he
+       always has the last word.
+
+[06]Community:
+       Old age home
+
+[07]Roles:
+        Senior most member in his community
