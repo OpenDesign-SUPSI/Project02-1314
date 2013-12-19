@@ -1,10 +1,10 @@
 The aim of this exercise is to identify the 
 manufacturing, distribution and design processes.
 
-Since our project is a community service, which acts as a bridge between senior citizens
+Our project is a community service, which acts as a bridge between senior citizens
 and the younger members of society.
 
-It dies this by a mutual exchange of experiences and wisdom from elderly people in return
+It does this by a mutual exchange of experiences and wisdom from elderly people in return
 for companionship and assistance from wider society.
 
 This community service is made of three main phases.The first one is the physical interface 
@@ -24,4 +24,4 @@ the recievers of the service besides acting as promotional material to educate f
 
 4.)Promotion
 
-5.)Business model[Maintanence/Upgrades]  
+5.)Business model(Maintanence/Upgrades)  
