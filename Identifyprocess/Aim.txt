@@ -1,2 +1,27 @@
 The aim of this exercise is to identify the 
 manufacturing, distribution and design processes.
+
+Since our project is a community service, which acts as a bridge between senior citizens
+and the younger members of society.
+
+It dies this by a mutual exchange of experiences and wisdom from elderly people in return
+for companionship and assistance from wider society.
+
+This community service is made of three main phases.The first one is the physical interface 
+which can be housed in a building, basement, town hall or other common areas.
+
+The second phase is an online platform which delivers subscription services to connect and 
+disseminate information both within and outside the community at large.
+
+Finally, we have the print medium which will be a point of contact between the providers and
+the recievers of the service besides acting as promotional material to educate future subscribers.
+
+1.)Design
+  
+2.)Setting up 
+
+3.)Delivery 
+
+4.)Promotion
+
+5.)Business model[Maintanence/Upgrades]  
