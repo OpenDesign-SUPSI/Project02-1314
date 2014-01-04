@@ -1,0 +1,21 @@
+1.)Device a test to guage usability
+We need to create a customised test to guage the usability of our designs
+
+2.)Analyse results to understand flaws
+next we have to study the results and remedy the flaws as and when we notice them
+
+3.)Reiterate the design
+After analysing the flaws, we have to adapt the design to suit the newly found requirement
+
+
+4.)Remove features/items that are unnecessary
+Any of the features that are found to not be required in the bigger scheme of things have to be removed or improved then and there
+
+5.)Implement the newly recognised changes
+Next step is to implement these changes to the existing feature set and tools that we decide on keeping
+
+6.)Perform further rounds of user testing
+Then we have to perform further round of user testing to fine tune our design
+
+7.)Repeat steps till required level of perfection is obtained
+Finally we rinse and repeat our steps until we reach a satisfactory level of detail and quality is reached 

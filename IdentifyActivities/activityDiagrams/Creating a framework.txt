@@ -1,0 +1,19 @@
+1.)Decide who the the users and participants areBefore creating a framework, we have to decide clearly who it is meant for and the type of clientale that are going to use it
+
+2.)Envision the context
+We also need to visualise the context within which our services will be used 
+
+3.)Discover the relationship between the users
+Considering this is a multi-user scenario, we have to chalk out the relationship and symbiosis between all segments of users
+
+4.)Decide the set of rules governing the system-user symbiosis
+Now that the relationship between the users has been established, we also need a set of rules to act upon to migate issues and decide their aims, goals and paths
+
+5.)Decide the type of interactions between users
+After the fourth step, we have to decide the different tools, methods and techniques using which the various users would interact, with the system and amongst themselves
+
+6.)Design all the services and sub-services you will provide aforehand
+All the services and their features, different versions, customisability and other aspects have to be decided before getting into the next phase
+
+7.)Map the entire system using all these segments
+Finally, we have to map the entire system to understand how all these elements will interact with each other and independently

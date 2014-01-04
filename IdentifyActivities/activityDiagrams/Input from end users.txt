@@ -1,0 +1,20 @@
+1.)Users and designers decide tasks
+In true spirit of the open design process, the users and designers decide the tasks that they have to perform to fit into the whole of the system
+
+2.)User's are asked to perform the tasks
+As part of user studies, the user's performance in the tasks that they are to perform, is evaluated while they are on the job
+
+3.)user performance is observed
+In a normal environment, the performance of the user is studied and an average is chalked out to see how well they perform in their tasks
+
+4.)Records are created and a through analysis is done
+All the results of these studies are recorded and analysed
+
+5.)Similarities in patterns are observed and a loopholes are remedied
+Patterns(if any) are recognised amongst the user studies and any deviations are corrected to bring the experience to optimal levels
+
+6.)Using these improvements a prototype is created
+Then, we take the results of these studies and use it to tailor a prototype
+
+7.)Steps are repeated until the system is sufficiently refined
+The steps from 1-6 are repeated in a loop until we get satisfactory results 

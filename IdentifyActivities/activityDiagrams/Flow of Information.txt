@@ -1,0 +1,20 @@
+1.)Users are sorted based on experience
+The most experienced users of the system are selected from a sample group
+
+2.)System's end goals and operations are explained
+The system's missions statement and organisational values are explained so that the expert users have an idea of what is expected of them 
+
+3.)Research is done via dialogues/forums
+Research is conducted both via face to face and online forum based methodologies
+
+4.)Input is obtained from expert users
+The input suggestions regarding the design of new systems and improvements to existing ones is obtained
+
+5.)Newer/various iterations of the concept are shown to the user
+The user is then shown the changes made to the existing systems and also newer concepts born out of user research
+
+6.)Further refinement is done to concept
+The concept is then refined further using the resources available within the team
+
+7.)We arrive at the final phase of this segment
+A produce resembling the final iteration that we require is acquired 
